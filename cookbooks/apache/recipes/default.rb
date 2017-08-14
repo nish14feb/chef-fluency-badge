@@ -5,7 +5,7 @@
 # Copyright:: 2017, The Authors, All Rights Reserved.
 #
 package 'apache2' do
-	package_name 'http'
+	package_name 'httpd'
 	action :install
 end
 
